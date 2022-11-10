@@ -86,6 +86,7 @@
     /* border-color: white; */
     border-style: solid;
     filter: invert(1);
+     border-width: thin;
 }
 .apple{
     width:70px;
